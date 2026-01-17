@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-qwen3vl-nakunode"
+description = "NakuNode-QWen3VL ComfyUI 自定义节点集合，集成了阿里云 Qwen 团队开发的 Qwen3-VL 多模态大语言模型系列。"
+version = "1.0.6"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/naku-yh/ComfyUI-Qwen3VL-NakuNode"
+
+[tool.comfy]
+PublisherId = "naku-yh"
+DisplayName = "NakuNode-QWen3VL"
+Icon = ""
+Banner = ""
+
